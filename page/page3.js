@@ -5,9 +5,9 @@ export default class page3 extends Component {
     render() {
         const {navigation} = this.props;
         const {state, setParams} = navigation;
-        const {params} = state;
+        const {params} = state || {};
         // debugger
-        const showText = params.mode === 'edit' ? '正在编辑' : '编辑完成';
+        const showText = params && params.mode === 'edit' ? '正在编辑' : '编辑完成';
         return (
             <View>
                 <Text style={styles.textStyle}>page3</Text>

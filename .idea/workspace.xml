@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887e5063-2573-4491-8aaf-a01a16b7712b" name="Default Changelist" comment="init">
+    <list default="true" id="887e5063-2573-4491-8aaf-a01a16b7712b" name="Default Changelist" comment="createStackNavigator结束">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/react_native_demo/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/react_native_demo/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appNavigators.js" beforeDir="false" afterPath="$PROJECT_DIR$/appNavigators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/react_native_demo.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/react_native_demo.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/react_native_demo/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/react_native_demo/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/homePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/homePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/page1.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/page1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/page3.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/page3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +31,9 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1SrEexlugYvJ2eIBHkRH9M0TBrb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -33,7 +46,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,7 +80,7 @@
       <workItem from="1572328071507" duration="38000" />
       <workItem from="1572328614828" duration="72000" />
       <workItem from="1572328863407" duration="152000" />
-      <workItem from="1572329255532" duration="1690000" />
+      <workItem from="1572329255532" duration="9161000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1572329318492</created>
@@ -74,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572329318492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="createStackNavigator结束">
+      <created>1572331664780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572331664780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="createStackNavigator结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="createStackNavigator结束" />
   </component>
 </project>

@@ -27,8 +27,12 @@ export default class homePage extends Component {
                     onPress={() => {
                         navigation.navigate('page3', {});
                     }}/>
-                <Button title={'page4'} onPress={}/>
-                <Button title={'page5'} onPress={}/>
+                <Button title={'page4'} onPress={() => {
+                    navigation.navigate('bottomTabNavigator');
+                }}/>
+                <Button title={'page5'} onPress={() => {
+                    navigation.navigate('topTabNavigator');
+                }}/>
             </View>
         );
     }
