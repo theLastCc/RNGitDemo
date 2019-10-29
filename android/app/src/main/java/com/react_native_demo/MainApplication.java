@@ -1,4 +1,4 @@
-package com.rndemo;
+package com.react_native_demo;
 
 import android.app.Application;
 import android.content.Context;

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ecfef4-66d7-4585-a487-c6266fe6bac2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="887e5063-2573-4491-8aaf-a01a16b7712b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,23 +11,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectId" id="1SrMBe9DJRLEnXHySLrIKNLhoM5" />
+  <component name="ProjectId" id="1SrEexlugYvJ2eIBHkRH9M0TBrb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,28 +36,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="29ecfef4-66d7-4585-a487-c6266fe6bac2" name="Default Changelist" comment="" />
-      <created>1572317127035</created>
+      <changelist id="887e5063-2573-4491-8aaf-a01a16b7712b" name="Default Changelist" comment="" />
+      <created>1572313413257</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572317127035</updated>
-      <workItem from="1572317129315" duration="1388000" />
+      <updated>1572313413257</updated>
+      <workItem from="1572313415341" duration="114000" />
+      <workItem from="1572313874530" duration="185000" />
+      <workItem from="1572320925274" duration="60000" />
+      <workItem from="1572321284700" duration="41000" />
+      <workItem from="1572327998294" duration="57000" />
+      <workItem from="1572328071507" duration="38000" />
+      <workItem from="1572328614828" duration="72000" />
+      <workItem from="1572328863407" duration="152000" />
     </task>
-    <task id="LOCAL-00001" summary="del">
-      <created>1572317200483</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1572317200483</updated>
-    </task>
-    <task id="LOCAL-00002" summary="del">
-      <created>1572319977954</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1572319977954</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,14 +60,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="del" />
-    <option name="LAST_COMMIT_MESSAGE" value="del" />
   </component>
 </project>

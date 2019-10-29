@@ -1,2 +1,0 @@
-# RNGitDemo
-t
