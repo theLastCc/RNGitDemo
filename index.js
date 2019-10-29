@@ -9,5 +9,5 @@ import page1 from "./page/page1";
 
 import appNavigators from "./appNavigators";
 
-AppRegistry.registerComponent(appName, () => createAppContainer(appNavigators));
-// AppRegistry.registerComponent(appName, () => page1);
+// AppRegistry.registerComponent(appName, () => createAppContainer(appNavigators));
+AppRegistry.registerComponent(appName, () => page1);
