@@ -6,6 +6,7 @@ import page1 from './page/page1';
 import page2 from './page/page2';
 import page3 from './page/page3';
 
+
 const appNavigator = createStackNavigator(
   {
     homePage: {
