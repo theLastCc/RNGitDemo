@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/bat100/Desktop/react_native_demo/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/bat100/Desktop/react_native_demo/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/Optional.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/Portability.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/Traits.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/Utility.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/bat100/Desktop/react_native_demo/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h

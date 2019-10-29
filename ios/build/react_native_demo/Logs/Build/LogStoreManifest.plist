@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2AA76621-E529-4523-AC3A-FBF08F614227</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2AA76621-E529-4523-AC3A-FBF08F614227.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>react_native_demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>react_native_demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace react_native_demo with scheme react_native_demo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593940901.95724905</real>
+			<key>timeStoppedRecording</key>
+			<real>593940902.79570305</real>
+			<key>title</key>
+			<string>Building workspace react_native_demo with scheme react_native_demo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2AA76621-E529-4523-AC3A-FBF08F614227</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
